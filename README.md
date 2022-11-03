@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VishwaTharunChalla
 - 👀 I’m interested in Competitive Programming
-- 🌱 I’m currently learning Programming and Data Science
+- 🌱 I’m currently doing Data Science and Machine Learning Internship at Edureka!
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me 9703974039
 
