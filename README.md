@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @VishwaTharunChalla
-- 👀 I’m interested in Data Science and Competitive Programming
-- 🌱 I’m currently doing Data Science and Machine Learning Internship at Edureka!
-- 💞️ I’m looking to collaborate on GitHub
-- 📫 How to reach me 9703974039
+Hi there! I have completed B.Tech from Guru Nanak Institutions Technical Campus, Hyderabad. I have worked as a Data Science and Machine Learning Intern at Edureka!, Speech Data Analyst Intern at Indika AI and Virtual Intern at Goldman Sachs and Infosys. I'm an aspiring Data Scientist who loves and passionate at finding patterns and connecting dots to be it ideas from different industries, people from different backgrounds and teams, or applications from different industries. I have strong technical skills, particularly in Databases and Machine Learning, Deep Learning and an academic background connected with mathematics, engineering and statistics.
 
-<!---
-VishwaTharunChalla/VishwaTharunChalla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I love solving business problems with unique algorithms and communicating complex ideas to business stakeholders. In my graduate studies, I took on a number of leadership roles, including mentoring two undergraduates, coordinating university research events for 300+ attendees. I wrote a journal on GREEN BLOCKS AND STRIPS USING PLASTIC MUD at IRJET. Participated in a National conference on TECH SAMPRATHI-2020 and got certification. Participated in many hackathons and events.
